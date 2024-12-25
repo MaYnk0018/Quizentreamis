@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What is {name}'s go-to comfort food?",
+    "options": ["Pizza", "Pasta", "Burger", "Ice Cream"]
+  },
+  {
+    "id": 2,
+    "question": "Which app does {name} use the most?",
+    "options": ["Instagram", "WhatsApp", "TikTok", "YouTube"]
+  },
+  {
+    "id": 3,
+    "question": "What is {name}'s worst habit?",
+    "options": ["Procrastinating", "Being late", "Snacking", "Oversleeping"]
+  },
+  {
+    "id": 4,
+    "question": "How would {name} survive a zombie apocalypse?",
+    "options": [
+      "Hide in a bunker",
+      "Fight zombies",
+      "Join a survivor group",
+      "Escape to an island"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What was {name}'s most embarrassing moment?",
+    "options": [
+      "Tripping in public",
+      "Accidentally sending a wrong text",
+      "Forgetting something important",
+      "Spilling food"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What is {name}'s favorite way to relax?",
+    "options": [
+      "Watching Netflix",
+      "Listening to music",
+      "Playing video games",
+      "Going for a walk"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "If {name} could switch lives with a celebrity for a day, who would it be?",
+    "options": ["Leonardo DiCaprio", "Virat Kohli", "Beyoncé", "Elon Musk"]
+  },
+  {
+    "id": 8,
+    "question": "Which one of these would {name} never say?",
+    "options": [
+      "I love mornings!",
+      "I hate pizza.",
+      "I'm always on time.",
+      "I don't need coffee."
+    ]
+  },
+  {
+    "id": 9,
+    "question": "What’s {name}'s hidden talent?",
+    "options": ["Singing", "Dancing", "Cooking", "Drawing"]
+  },
+  {
+    "id": 10,
+    "question": "What would {name} do if they won a million dollars?",
+    "options": [
+      "Buy a house",
+      "Travel the world",
+      "Start a business",
+      "Donate to charity"
+    ]
+  }
+]
